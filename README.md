@@ -1,4 +1,4 @@
 # aryan-demo
 This is my first git repository.
 <br>
-Author-Aryan Kumar
+Author-Aryan (NIT DGP)
